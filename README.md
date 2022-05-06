@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KatieClarinet!
-- 🎼 I originally trained as a clasical clarinettist, but I'm now learning to code as a student on the School of Code Spring 2022 course!
+- 🎼 I originally trained as a classical clarinettist, but I'm now learning to code as a student on the School of Code Spring 2022 course!
 - 💻 So far, I've completed the freecodecamp Responsive Web Design Course. Any future work I do will be saved on here!
 
 <!---
