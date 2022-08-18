@@ -1,11 +1,11 @@
 <h1 align="center" >Hi 👋, I'm Katie</h1>
-<h3 style="color:blue" align="center">A former clarinetist, I've just graduated from School of Code and looking for my first frontend/backend/full stack role!</h3>
+<h3 align="center">A former clarinetist, I've just graduated from School of Code (August '22) and am looking for my first frontend/backend/full stack role!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katieclarinet&label=Profile%20views&color=0e75b6&style=flat" alt="katieclarinet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katieclarinet" alt="katieclarinet" /></a> </p>
 
-- 🌱 I’m currently learning **React, and hoping to learn Next**
+- 🌱 I’m currently learning **React.js, and hoping to learn Next.js**
 
 - 📫 How to reach me **katie_walters@live.co.uk**
 
