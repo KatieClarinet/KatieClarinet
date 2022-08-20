@@ -1,6 +1,6 @@
 <h1>$\color{#DA344D}{Hello,~I'm ~Katie!}$</h1>
-<h3>$\color{#229DC0}{I've ~just ~graduated ~from ~School ~of ~Code ~(August ~'22) ~and ~am ~looking ~for ~my ~first ~role ~as ~a ~software ~developer!}$</h3>
-<h3>$\color{#229DC0}{I've ~enjoyed ~learning ~how ~to ~write ~front ~and ~back ~end ~code ~equally ~and ~am ~looking ~to ~collaborate ~on ~any ~projects ~that ~will ~further ~my ~knowledge.}$</h3>
+<span>$\color{#229DC0}{I've ~just ~graduated ~from ~School ~of ~Code ~(August ~'22) ~and ~am ~looking ~for ~my ~first ~role ~as ~a ~software ~developer!}$</span>
+<span>$\color{#229DC0}{I've ~enjoyed ~learning ~how ~to ~write ~front ~and ~back ~end ~code ~equally ~and ~am ~looking ~to ~collaborate ~on ~any ~projects ~that ~will ~further ~my ~knowledge.}$<p>
 <br>
 <h2>$\color{#DA344D}{A ~few ~things ~about ~me:}$</h2>
 <h3>$\color{#229DC0}{🌱 I'm ~vegan}$</h3>
