@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Katie</h1>
-<h3 align="center">A former clarinetist, I've just graduated from School of Code (August '22) and am looking for my first frontend/backend/full stack role!</h3>
+<h3 align="center"><span style="color:blue">test</span>A former clarinetist, I've just graduated from School of Code (August '22) and am looking for my first frontend/backend/full stack role!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katieclarinet&label=Profile%20views&color=0e75b6&style=flat" alt="katieclarinet" /> </p>
 
