@@ -1,9 +1,8 @@
+# $\color{#DA344D}{Hello,~I'm ~Katie!}$
+### $\color{#229DC0}{I've ~just ~graduated ~from ~School ~of ~Code ~(August ~'22) ~and ~am ~looking ~for ~my ~first ~role ~as ~a ~software ~developer!}$  
+### $\color{#229DC0}{I've ~enjoyed ~learning ~how ~to ~write ~front ~and ~back ~end ~code ~equally ~and ~am ~looking ~to ~collaborate ~on ~any ~projects}$
+### $\color{#229DC0}{~that ~will ~further ~my ~knowledge.}$
 
-<h1>$\color{#DA344D}{Hello,~I'm ~Katie!}$</h1>
-<h3>$\color{#229DC0}{I've ~just ~graduated ~from ~School ~of ~Code ~(August ~'22) ~and ~am}$<h3>
-<h3>$\color{#229DC0}{looking ~for ~my ~first ~role ~as ~a ~software ~developer!}$</h3>
-<h3>$\color{#229DC0}{I've ~enjoyed ~learning ~how ~to ~write ~front ~and ~back ~end ~code ~equally}$<h3>
-<h3>$\color{#229DC0}{~and ~am ~looking ~to ~collaborate ~on ~any~projects ~that ~will ~further ~my ~knowledge.}$<h3>
 <br>
 <h2>$\color{#DA344D}{A ~few ~things ~about ~me:}$</h2>
 <h3>$\color{#229DC0}{🌱 I'm ~vegan}$</h3>
@@ -26,3 +25,4 @@
 <h3>
 <a href="https://twitter.com/katiecodes91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katiecodes91" height="30" width="40" /></a>$\color{#229DC0}{@katiecodes91}$
 </h3>
+
