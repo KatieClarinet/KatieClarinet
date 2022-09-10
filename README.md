@@ -1,6 +1,6 @@
 # $\color{#DA344D}{Hello,~I'm ~Katie!}$
 I've just graduated from School of Code (August '22) and am looking for my first role as a software developer!
-I've enjoyed learning how to write fron and back end code equally and am looking to collaborate on any projects that will further my knowledge.
+I've enjoyed learning how to write front and back end code equally and am looking to collaborate on any projects that will further my knowledge.
 
 
 <br>
