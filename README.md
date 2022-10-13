@@ -12,7 +12,9 @@ I've enjoyed learning how to write front and back end code equally and am lookin
 My favourite orchestral piece is Mahler 1 <br>
 <br>
 <h2>$\color{#DA344D}{🍁 ~Recent ~Projects:}$</h2>     
+
 [📘 My Book Reviews](https://github.com/KatieClarinet/BookReviews_FrontEnd)<br>     
+
 [🎶 Scales Practice](https://github.com/KatieClarinet/MusicalScales_FrontEnd)      
 
 
