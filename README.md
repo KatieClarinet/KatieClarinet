@@ -17,6 +17,8 @@ My favourite orchestral piece is Mahler 1 <br>
 
 [🎶 Scales Practice](https://github.com/KatieClarinet/MusicalScales_FrontEnd)      
 
+[🚙 EVie Route Planner (School of Code Final Team Project)](https://github.com/SchoolOfCode/final-project_front-end-evie)
+
 
 <br>
 <h2>$\color{#229DC0}{💻 ~My ~Tech ~Stack/Tools}$</h2>
