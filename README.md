@@ -13,6 +13,8 @@ My favourite orchestral piece is Mahler 1 <br>
 <br>
 <h2>$\color{#DA344D}{🍁 ~Recent ~Projects:}$</h2>     
 
+[🌻 My Portfolio](https://github.com/KatieClarinet/KatieWaltersPortfolio)
+
 [📘 My Book Reviews](https://github.com/KatieClarinet/BookReviews_FrontEnd)<br>     
 
 [🎶 Scales Practice](https://github.com/KatieClarinet/MusicalScales_FrontEnd)      
