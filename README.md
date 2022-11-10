@@ -1,4 +1,5 @@
-# $\color{#DA344D}{Hello,~I'm ~Katie!}$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&&pause=1000&color=DA344D&background=B6FF6A00&width=435&lines=Hello%2C+I'm+Katie!" alt="Typing SVG" /></a>
+
 I've just graduated from School of Code (August '22) and am looking for my first role as a software developer!
 I've enjoyed learning how to write front and back end code equally and am looking to collaborate on any projects that will further my knowledge.
 
