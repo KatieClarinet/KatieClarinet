@@ -37,9 +37,14 @@ My favourite orchestral piece is Mahler 1 <br>
 <img src="https://www.codewars.com/users/KatieClarinet/badges/large" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katieclarinet&show_icons=true&locale=en" alt="katieclarinet" /></p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KatieClarinet)](https://git.io/streak-stats)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katieclarinet&label=Profile%20views&color=0e75b6&style=flat" alt="katieclarinet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katieclarinet" alt="katieclarinet" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katieclarinet" alt="katieclarinet" /></a> </p> -->
 <h2>$\color{#DA344D}{🖋️ ~Contact ~Me}$</h2>
 <h3>$\color{#229DC0}{📧 ~katie\_walters@live.co.uk}$</h3>
 <h3>
