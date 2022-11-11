@@ -8,7 +8,7 @@ I've enjoyed learning how to write front and back end code equally and am lookin
 ### $\color{#229DC0}{A ~few ~things ~about ~me}$   
 
 🌱 I'm vegan <br>
-🐈 I love all animals (except for spiders)! Espeically my kitten Crunchie <br>
+🐈 I love all animals (except for spiders)! Especially my kitten Crunchie <br>
 📚 I'm an avid reader and my favourite book is The Book Thief by Markus Zusak <br>
 🎶 In my previous career I was a classical clarinetist... <br>
 My favourite orchestral piece is Mahler 1 <br>
