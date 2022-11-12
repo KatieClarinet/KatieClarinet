@@ -1,17 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&&pause=1000&color=DA344D&background=B6FF6A00&width=435&lines=Hello%2C+I'm+Katie!" alt="Typing SVG" /></a>
 
-I've just graduated from School of Code (August '22) and am looking for my first role as a software developer!
-I've enjoyed learning how to write front and back end code equally and am looking to collaborate on any projects that will further my knowledge.
+I recently graduated from the intensive School of Code bootcamp (August '22) and am looking for my first role as a software developer!
+I enjoy creating full-stack applications, with an emphasis on user experience, and am looking to collaborate on any projects that will further my knowledge.
 
 <hr>
 
 ### $\color{#229DC0}{A ~few ~things ~about ~me}$   
 
-🌱 I'm vegan <br>
 🐈 I love all animals (except for spiders)! Especially my kitten Crunchie <br>
 📚 I'm an avid reader and my favourite book is The Book Thief by Markus Zusak <br>
-🎶 In my previous career I was a classical clarinetist... <br>
-My favourite orchestral piece is Mahler 1 <br>
+🍎 I'm currently brewing my own cider <br>
+🎶 In my previous career I was a Classical Clarinetist and Primary School Partnerships Manager organising music lessons for children <br>
+🕵️‍♀️ True crime podcasts are my fave! Mainly *My Favourite Murder* and *Serial* <br>
 <hr>  
 
 ### $\color{#DA344D}{~I'm ~currently ~working ~on}$ 
