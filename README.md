@@ -11,7 +11,7 @@ I enjoy creating full-stack applications, with an emphasis on user experience, a
 📚 I'm an avid reader and my favourite book is The Book Thief by Markus Zusak <br>
 🍎 I'm currently brewing my own cider <br>
 🎶 In my previous career I was a Classical Clarinetist and Primary School Partnerships Manager organising music lessons for children <br>
-🕵️‍♀️ True crime podcasts are my fave! Mainly *My Favourite Murder* and *Serial* <br>
+🕵🏼‍♀️ True crime podcasts are my fave! Mainly *My Favourite Murder* and *Serial* <br>
 <hr>  
 
 ### $\color{#DA344D}{~I'm ~currently ~working ~on}$ 
