@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&&pause=1000&color=DA344D&background=B6FF6A00&width=435&lines=Hello%2C+I'm+Katie!" alt="Typing SVG" /></a>
 
-I recently graduated from the intensive School of Code bootcamp (August '22) and am looking for my first role as a software developer!
-I enjoy creating full-stack applications, with an emphasis on user experience, and am looking to collaborate on any projects that will further my knowledge.
+I graduated from the intensive School of Code bootcamp in August '22 and in December '22 began my first role as a Junior Developer at Asset Alliance Group.
+I enjoy creating full-stack applications, with an emphasis on user experience, and am interested in learning more about automating time-heavy/boring processes to free up time.
 
 <hr>
 
@@ -16,7 +16,7 @@ I enjoy creating full-stack applications, with an emphasis on user experience, a
 
 ### $\color{#DA344D}{~I'm ~currently ~working ~on}$ 
 - Free Code Camp: Relational Databases Course <br>
-- Writing tests for my recent projects (currently writing them for my portfolio using React Testing Library)
+- Power BI
 <hr>
 
 
